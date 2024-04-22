@@ -1,0 +1,94 @@
+{
+    "name": "Brodos",
+    "displayName": 50,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+        "src": "icons/svg/mystery-man.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+        "attribute": "attributes.hp"
+    },
+    "bar2": {
+        "attribute": null
+    },
+    "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+            "type": null,
+            "speed": 5,
+            "intensity": 5,
+            "reverse": false
+        },
+        "darkness": {
+            "min": 0,
+            "max": 1
+        },
+        "color": null
+    },
+    "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0,
+        "color": null
+    },
+    "detectionModes": [],
+    "flags": {
+        "dnd5e": {
+            "tokenRing": {
+                "enabled": false,
+                "textures": {
+                    "subject": null
+                },
+                "scaleCorrection": 1,
+                "colors": {
+                    "ring": null,
+                    "background": null
+                },
+                "effects": 1
+            }
+        }
+    },
+    "actorId": "Y31hD5WlFwcK4zn4",
+    "x": 2529,
+    "y": 1627,
+    "hidden": false,
+    "_id": "9MQI6GOSAsDN4XIP",
+    "delta": {
+        "_id": "jLHUZE3FAqQgJ74U",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {}
+    },
+    "elevation": 0,
+    "effects": []
+}

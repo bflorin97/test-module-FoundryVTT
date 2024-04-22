@@ -1,0 +1,34 @@
+{
+  "id": "test-module-FoundryVTT",
+  "title": "Test Module FoundryVTT",
+  "description": "test-module-FoundryVTT",
+  "authors": [
+    {
+      "name": "test-module-FoundryVTT",
+      "discord": "test-module-FoundryVTT",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/bflorin97/test-module-FoundryVTT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.314"
+  },
+  "esmodules": [
+    "module/test-module-FoundryVTT.js"
+  ],
+  "styles": [
+    "styles/test-module-FoundryVTT.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/bflorin97/test-module-FoundryVTT/main/module.json",
+  "download": ""
+}
